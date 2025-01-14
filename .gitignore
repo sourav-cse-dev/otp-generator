@@ -1,0 +1,4 @@
+# System files
+.vscode/*
+.DS_Store
+.prettierrc.json
